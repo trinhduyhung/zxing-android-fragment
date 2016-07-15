@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/trinhduyhung/AndroidStudioProjects/StandardOpenSource/ZxingAndroidClient/app/build/intermediates/res/merged/debug/layout-land/share.xml",
+        "source": "/Users/trinhduyhung/AndroidStudioProjects/StandardOpenSource/ZxingAndroidClient/app/src/main/res/layout-land/share.xml"
+    },
+    {
+        "merged": "/Users/trinhduyhung/AndroidStudioProjects/StandardOpenSource/ZxingAndroidClient/app/build/intermediates/res/merged/debug/layout-land/encode.xml",
+        "source": "/Users/trinhduyhung/AndroidStudioProjects/StandardOpenSource/ZxingAndroidClient/app/src/main/res/layout-land/encode.xml"
+    }
+]
